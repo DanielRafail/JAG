@@ -1,0 +1,17 @@
+.root{
+   -fx-background-color: grey;
+}
+.button{
+    -fx-backgroud-color: grey;
+}
+#buttons{
+    -fx-background-color: transparent;
+}
+
+#silver{
+    -fx-background-color :  silver;
+}
+
+#folders{
+    -fx-background-color: white;
+}
